@@ -6,3 +6,4 @@
 04-Dec-2024 : Learned Arrays and Hashing, Not yet completed.</br>
 05-Dec-2024 : Completed Arrays.</br>
 06-Dec-2024 : Learning Hashes and Practising Arrays.</br>
+09-Dec-2024 : Learning Methods.</br>
