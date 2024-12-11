@@ -8,3 +8,4 @@
 06-Dec-2024 : Learning Hashes and Practising Arrays.</br>
 09-Dec-2024 : Learning Methods.</br>
 10-Dec-2024 : Learning Methods and other assigned tasks.</br>
+11-Dec-2024 : Exception Handling.</br>
