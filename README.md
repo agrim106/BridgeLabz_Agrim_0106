@@ -9,3 +9,4 @@
 09-Dec-2024 : Learning Methods.</br>
 10-Dec-2024 : Learning Methods and other assigned tasks.</br>
 11-Dec-2024 : Exception Handling.</br>
+12-Dec-2024 : Basic Enumerable Methods.</br>
